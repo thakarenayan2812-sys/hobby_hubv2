@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1000092547089",
+    "project_id": "hobby-hub-88eac",
+    "storage_bucket": "hobby-hub-88eac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000092547089:android:8e4d2e7b5c2f2172ab59b0",
+        "android_client_info": {
+          "package_name": "com.example.hobby_hubv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000092547089-7pctasfagbjq08n8kkbo67q71e4l5aph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hobby_hubv2",
+            "certificate_hash": "cb34f36557cac3c208eacc6806ad198ee3dd5160"
+          }
+        },
+        {
+          "client_id": "1000092547089-g1j5sbk5k7fai0pmvktot7a0qckqmgbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhbxSpPsAgxI9qr25jQUTqAmO-kwBn38A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000092547089-g1j5sbk5k7fai0pmvktot7a0qckqmgbf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1000092547089-82s03maapeirsbf20nrp8sejjs4jeu1n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hobbyHubv2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
